@@ -2,3 +2,27 @@
 	path = gcc
 	url = git@github.com:edgeforce/gcc.git
 	branch = master
+[submodule "msvc"]
+	path = msvc
+	url = git@github.com:edgeforce/msvc.git
+	branch = master
+[submodule "directx8"]
+	path = directx8
+	url = git@github.com:edgeforce/directx8.git
+	branch = master
+[submodule "3dfx"]
+	path = 3dfx
+	url = git@github.com:edgeforce/3dfx.git
+	branch = master
+[submodule "glide3"]
+	path = glide3
+	url = git@github.com:edgeforce/glide3.git
+	branch = master
+[submodule "d3d"]
+	path = d3d
+	url = git@github.com:edgeforce/d3d.git
+	branch = master
+[submodule "radtools"]
+	path = radtools
+	url = git@github.com:edgeforce/radtools.git
+	branch = master
