@@ -1,0 +1,4 @@
+[submodule "gcc"]
+	path = gcc
+	url = git@github.com:edgeforce/gcc.git
+	branch = master
